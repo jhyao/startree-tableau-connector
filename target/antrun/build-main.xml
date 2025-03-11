@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <move file="/Users/qiu/workspace/startree-tableau-connector/target/ai.startree.pinot-startree-tableau-connector-1.0-V2.jar" tofile="/Users/qiu/workspace/startree-tableau-connector/target/ai.startree.pinot-startree-tableau-connector-1.0-V2.taco" />
+  </target>
+</project>
